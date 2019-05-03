@@ -1,0 +1,13 @@
+---
+title: "Lecture title"
+author: [Author name, student ID and course of study]
+keywords: [Lab, Documentation]
+
+#lang: "de"
+
+#titlepage: true
+#titlepage-color: "06386e"
+#itlepage-text-color: "FFFFFF"
+#itlepage-rule-color: "FFFFFF"
+#itlepage-rule-height: 1
+...
